@@ -13,19 +13,6 @@ Hedefim; bağımsız uygulama geliştirebilen, hata çözebilen ve güvenilir ç
 
 İlerlememi tamamladığım ders sayısıyla birlikte; yeni bir problemi çözebilme, kodumu açıklama, hatayı bulma ve değişen gereksinimlere uyarlama becerilerimle değerlendiriyorum.
 
-## 🌱 Şu an ne çalışıyorum?
-
-**25 Eylül 2026 itibarıyla:** C# temelleri üzerinde çalışıyorum; ilk üç ders oturumunu tamamladım.
-
-- Konsol çıktısı: `Console.Write`, `Console.WriteLine` ve satır düzeni.
-- `string` ve `int` değişkenleri; tanımlama, atama ve yeniden atama.
-- Metin birleştirme, toplama/çıkarma, `+=` ve `-=`; bağımsız komut olarak `++` ve `--`.
-- Kodun çıktısını tahmin etme, güncel değişken değerini izleme ve küçük hataları açıklama.
-
-**Sıradaki adımım:** Güncel değer ve değer kopyalama tekrarı; ardından çarpma, bölme, kalan ve işlem önceliği.
-
-Bu konuları ders içi uygulamalarla çalıştım. Bağımsız uygulama becerimi yeni görevler ve gecikmeli tekrarlarla ayrıca ölçmeyi hedefliyorum.
-
 ## 🧭 Backend yol haritam
 
 | Aşama | Öğrenme odağı | Hedef çıktı |
@@ -55,14 +42,6 @@ Aşağıdaki projeler yol haritamın hedefleridir; henüz tamamlanmış çalış
 | **AppointmentHub** | Rol bazlı randevu, müsaitlik, iptal ve çakışma kontrolü içeren sınırlı MVP | Uçtan uca ürün geliştirme, eşzamanlılık, operasyon ve teknik kararlar |
 
 Her projede problem tanımını, kurulum adımlarını, kritik davranış testlerini ve bilinen eksikleri görünür kılmayı hedefliyorum. Junior hazırlığımın somut ölçütlerinden biri, en az iki savunulabilir proje ve bunlardan en az birinde test, CI ve tekrar kurulabilir yayınlama olacak.
-
-## 🧠 Nasıl öğreniyorum?
-
-- Küçük örneklerden başlayıp aynı fikri farklı bir problemde uyguluyorum.
-- Çözümü açıklamayı, sınır durumlarını düşünmeyi ve hatalardan öğrenmeyi çalışmanın parçası sayıyorum.
-- Yapay zekâyı kavram açıklama, ipucu ve kod incelemesi için kullanıyorum; aldığım desteği bağımsız başarıyla karıştırmıyorum.
-- Her hafta yapay zekâ desteği kapalı bir uygulama, her modül sonunda bağımsız değerlendirme yapmayı hedefliyorum.
-- Teknik İngilizcemi doküman, hata mesajı ve kısa proje anlatımları üzerinden geliştiriyorum.
 
 ## 📚 Gelişim planımın kaynağı
 
